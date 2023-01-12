@@ -52,7 +52,6 @@ print(solution)
 ## Output:
 ![lu decomposition]()
 ![Screenshot (5)](https://user-images.githubusercontent.com/121369281/212130872-993900d0-79d4-4955-a6db-84daeda1a99a.png)
-![5 2 EDM_page-0001](https://user-images.githubusercontent.com/121369281/212130877-c18a5ca6-b76f-4332-85b0-fb3c8feb6130.jpg)
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/121369281/212130925-782a4d41-948d-4e8d-8f60-13ae6fd8737f.png)
 
